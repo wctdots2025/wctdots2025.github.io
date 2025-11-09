@@ -5,8 +5,8 @@
 body {
   margin: 0;
   font-family: system-ui, sans-serif;
-  color: ;
-  background-color: white;
+  color: black;
+  background-color: lightgray;
 }
 
 nav {
@@ -60,7 +60,7 @@ main {
 h1 {
   font-weight: bold;
   font-size: 1.5rem;
-  color: blue;
+  color: orange;
 }
 
 #biggerfont {
